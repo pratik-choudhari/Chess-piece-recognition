@@ -1,0 +1,7 @@
+numpy
+matplotlib
+keras
+tensorflow
+augmentor
+opencv-python
+pickle
