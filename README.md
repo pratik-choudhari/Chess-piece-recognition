@@ -1,6 +1,8 @@
 # Chess-piece-recognition
 A project on chess piece identification from images.
 
+![](https://img.shields.io/badge/dependency-Augmentor-brightgreen)
+
 Dataset credits: [DatasetDaily](https://github.com/Dataset-Daily)
 
 __Running this code on 8GB or less RAM device might crash the system__
